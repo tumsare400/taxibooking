@@ -13,6 +13,7 @@ import { SelectDriverComponent } from './select-driver.component';
 
 import { ConfirmBookingComponent }  from './confirm-booking.component';
 import { UserSignUpComponent } from './sign-up.component';
+import { SignInComponent } from './sign-in.component';
 
 
 
@@ -28,7 +29,8 @@ import { UserSignUpComponent } from './sign-up.component';
         SelectDriverComponent,
 
         ConfirmBookingComponent,
-        UserSignUpComponent
+        UserSignUpComponent,
+        SignInComponent
 
     ],
 
@@ -48,7 +50,8 @@ import { UserSignUpComponent } from './sign-up.component';
         SelectDriverComponent,
 
         ConfirmBookingComponent,
-        UserSignUpComponent
+        UserSignUpComponent,
+        SignInComponent
 
     ],
 
